@@ -1,0 +1,700 @@
+{
+  "bifs": [
+    {
+      "id": 251,
+      "threshold_1": "Cherenkov",
+      "threshold_2": "Cherenkov"
+    },
+    {
+      "id": 252,
+      "threshold_1": "",
+      "threshold_2": ""
+    }
+  ],
+  "difs": [
+    {
+      "chamber": 0,
+      "id": 30,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 0,
+      "id": 94,
+      "type": "HR2PAD",
+      "position": "center"
+    },
+    {
+      "chamber": 0,
+      "id": 181,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 1,
+      "id": 100,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 1,
+      "id": 97,
+      "type": "HR2PAD",
+      "position": "center"
+    },
+    {
+      "chamber": 1,
+      "id": 92,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 2,
+      "id": 40,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 2,
+      "id": 93,
+      "type": "HR2PAD",
+      "position": "center"
+    },
+    {
+      "chamber": 2,
+      "id": 98,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 3,
+      "id": 119,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 3,
+      "id": 118,
+      "type": "HR2PAD",
+      "position": "center"
+    },
+    {
+      "chamber": 3,
+      "id": 129,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 4,
+      "id": 151,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 4,
+      "id": 152,
+      "type": "HR2PAD",
+      "position": "center"
+    },
+    {
+      "chamber": 4,
+      "id": 164,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 5,
+      "id": 75,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 5,
+      "id": 61,
+      "type": "HR2PAD",
+      "position": "center"
+    },
+    {
+      "chamber": 5,
+      "id": 74,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 6,
+      "id": 110,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 6,
+      "id": 111,
+      "type": "HR2PAD",
+      "position": "center"
+    },
+    {
+      "chamber": 6,
+      "id": 156,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 7,
+      "id": 103,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 7,
+      "id": 177,
+      "type": "HR2PAD",
+      "position": "center"
+    },
+    {
+      "chamber": 7,
+      "id": 102,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 8,
+      "id": 176,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 8,
+      "id": 175,
+      "type": "HR2PAD",
+      "position": "center"
+    },
+    {
+      "chamber": 8,
+      "id": 174,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 9,
+      "id": 121,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 9,
+      "id": 120,
+      "type": "HR2PAD",
+      "position": "center"
+    },
+    {
+      "chamber": 9,
+      "id": 128,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 10,
+      "id": 58,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 10,
+      "id": 64,
+      "type": "HR2PAD",
+      "position": "center"
+    },
+    {
+      "chamber": 10,
+      "id": 65,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 11,
+      "id": 73,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 11,
+      "id": 72,
+      "type": "HR2PAD",
+      "position": "center"
+    },
+    {
+      "chamber": 11,
+      "id": 148,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 12,
+      "id": 60,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 12,
+      "id": 79,
+      "type": "HR2PAD",
+      "position": "center"
+    },
+    {
+      "chamber": 12,
+      "id": 78,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 13,
+      "id": 113,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 13,
+      "id": 43,
+      "type": "HR2PAD",
+      "position": "center"
+    },
+    {
+      "chamber": 13,
+      "id": 44,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 14,
+      "id": 243,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 14,
+      "id": 242,
+      "type": "HR2PAD",
+      "position": "center"
+    },
+    {
+      "chamber": 14,
+      "id": 241,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 15,
+      "id": 186,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 15,
+      "id": 127,
+      "type": "HR2PAD",
+      "position": "center"
+    },
+    {
+      "chamber": 15,
+      "id": 154,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 16,
+      "id": 71,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 16,
+      "id": 70,
+      "type": "HR2PAD",
+      "position": "center"
+    },
+    {
+      "chamber": 16,
+      "id": 147,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 17,
+      "id": 139,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 17,
+      "id": 140,
+      "type": "HR2PAD",
+      "position": "center"
+    },
+    {
+      "chamber": 17,
+      "id": 47,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 18,
+      "id": 76,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 18,
+      "id": 77,
+      "type": "HR2PAD",
+      "position": "center"
+    },
+    {
+      "chamber": 18,
+      "id": 143,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 19,
+      "id": 36,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 19,
+      "id": 91,
+      "type": "HR2PAD",
+      "position": "center"
+    },
+    {
+      "chamber": 19,
+      "id": 159,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 20,
+      "id": 183,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 20,
+      "id": 178,
+      "type": "HR2PAD",
+      "position": "center"
+    },
+    {
+      "chamber": 20,
+      "id": 179,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 21,
+      "id": 67,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 21,
+      "id": 42,
+      "type": "HR2PAD",
+      "position": "center"
+    },
+    {
+      "chamber": 21,
+      "id": 41,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 22,
+      "id": 138,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 22,
+      "id": 46,
+      "type": "HR2PAD",
+      "position": "center"
+    },
+    {
+      "chamber": 22,
+      "id": 137,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 23,
+      "id": 144,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 23,
+      "id": 173,
+      "type": "HR2PAD",
+      "position": "center"
+    },
+    {
+      "chamber": 23,
+      "id": 131,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 24,
+      "id": 160,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 24,
+      "id": 184,
+      "type": "HR2PAD",
+      "position": "center"
+    },
+    {
+      "chamber": 24,
+      "id": 189,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 25,
+      "id": 171,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 25,
+      "id": 167,
+      "type": "HR2PAD",
+      "position": "center"
+    },
+    {
+      "chamber": 25,
+      "id": 172,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 26,
+      "id": 145,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 26,
+      "id": 135,
+      "type": "HR2PAD",
+      "position": "center"
+    },
+    {
+      "chamber": 26,
+      "id": 146,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 27,
+      "id": 180,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 27,
+      "id": 170,
+      "type": "HR2PAD",
+      "position": "center"
+    },
+    {
+      "chamber": 27,
+      "id": 185,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 28,
+      "id": 190,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 28,
+      "id": 188,
+      "type": "HR2PAD",
+      "position": "center"
+    },
+    {
+      "chamber": 28,
+      "id": 187,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 29,
+      "id": 166,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 29,
+      "id": 165,
+      "type": "HR2PAD",
+      "position": "center"
+    },
+    {
+      "chamber": 29,
+      "id": 169,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 30,
+      "id": 50,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 30,
+      "id": 57,
+      "type": "HR2PAD",
+      "position": "center"
+    },
+    {
+      "chamber": 30,
+      "id": 155,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 31,
+      "id": 153,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 31,
+      "id": 108,
+      "type": "HR2PAD",
+      "position": "center"
+    },
+    {
+      "chamber": 31,
+      "id": 25,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 32,
+      "id": 109,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 32,
+      "id": 56,
+      "type": "HR2PAD",
+      "position": "center"
+    },
+    {
+      "chamber": 32,
+      "id": 51,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 33,
+      "id": 107,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 33,
+      "id": 150,
+      "type": "HR2PAD",
+      "position": "center"
+    },
+    {
+      "chamber": 33,
+      "id": 116,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 34,
+      "id": 49,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 34,
+      "id": 124,
+      "type": "HR2PAD",
+      "position": "center"
+    },
+    {
+      "chamber": 34,
+      "id": 126,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 35,
+      "id": 115,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 35,
+      "id": 149,
+      "type": "HR2PAD",
+      "position": "center"
+    },
+    {
+      "chamber": 35,
+      "id": 117,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 36,
+      "id": 114,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 36,
+      "id": 45,
+      "type": "HR2PAD",
+      "position": "center"
+    },
+    {
+      "chamber": 36,
+      "id": 48,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 37,
+      "id": 90,
+      "type": "HR2PAD",
+      "position": "left"
+    },
+    {
+      "chamber": 37,
+      "id": 133,
+      "type": "HR2PAD",
+      "position": "center"
+    },
+    {
+      "chamber": 37,
+      "id": 218,
+      "type": "HR2PAD",
+      "position": "left"
+    }
+  ]
+}
